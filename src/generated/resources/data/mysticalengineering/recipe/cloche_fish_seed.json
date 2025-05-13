@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:fish_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:fish_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:dye_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:dye_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

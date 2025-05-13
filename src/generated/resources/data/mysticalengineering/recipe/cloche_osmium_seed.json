@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:osmium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:osmium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

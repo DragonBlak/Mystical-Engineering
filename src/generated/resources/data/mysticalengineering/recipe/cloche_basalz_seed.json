@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:basalz_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:basalz_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

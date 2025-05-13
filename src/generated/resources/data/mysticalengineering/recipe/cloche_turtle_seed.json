@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:turtle_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:turtle_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

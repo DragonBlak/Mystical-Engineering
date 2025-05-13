@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:terrasteel_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:terrasteel_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

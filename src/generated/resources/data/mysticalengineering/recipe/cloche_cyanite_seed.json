@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:cyanite_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:cyanite_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:cow_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:cow_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:energetic_alloy_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:energetic_alloy_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

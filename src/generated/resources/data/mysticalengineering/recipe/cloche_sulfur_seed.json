@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:sulfur_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:sulfur_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

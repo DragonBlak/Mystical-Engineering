@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:slimesteel_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:slimesteel_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

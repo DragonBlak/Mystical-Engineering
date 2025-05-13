@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:blaze_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:blaze_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:pig_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:pig_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

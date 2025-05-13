@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:ice_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:ice_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

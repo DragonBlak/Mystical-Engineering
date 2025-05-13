@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:yellorium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:yellorium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

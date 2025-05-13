@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:saltpeter_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:saltpeter_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

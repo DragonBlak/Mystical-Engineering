@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:diamond_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:diamond_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

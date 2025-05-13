@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:emerald_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:emerald_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

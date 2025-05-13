@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:elementium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:elementium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:rose_gold_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:rose_gold_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

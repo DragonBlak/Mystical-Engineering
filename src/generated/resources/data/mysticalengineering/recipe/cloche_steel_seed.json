@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:steel_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:steel_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

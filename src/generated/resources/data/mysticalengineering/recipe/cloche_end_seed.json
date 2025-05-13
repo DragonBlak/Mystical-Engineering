@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:end_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:end_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

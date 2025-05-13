@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:refined_obsidian_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:refined_obsidian_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

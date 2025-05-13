@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:rubber_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:rubber_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

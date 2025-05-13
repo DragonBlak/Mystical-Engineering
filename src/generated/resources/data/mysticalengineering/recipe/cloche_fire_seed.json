@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:fire_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:fire_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

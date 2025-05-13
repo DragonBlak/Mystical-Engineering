@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:nether_quartz_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:nether_quartz_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

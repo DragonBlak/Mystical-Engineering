@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:basalt_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:basalt_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

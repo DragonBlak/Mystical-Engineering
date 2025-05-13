@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:aquamarine_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:aquamarine_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

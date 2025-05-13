@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:wood_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:wood_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:compressed_iron_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:compressed_iron_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

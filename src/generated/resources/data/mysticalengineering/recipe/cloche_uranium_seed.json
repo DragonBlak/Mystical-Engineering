@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:uranium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:uranium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:ironwood_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:ironwood_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

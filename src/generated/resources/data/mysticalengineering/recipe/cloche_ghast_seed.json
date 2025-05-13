@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:ghast_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:ghast_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

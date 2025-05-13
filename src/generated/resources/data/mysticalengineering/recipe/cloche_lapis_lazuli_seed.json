@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:lapis_lazuli_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:lapis_lazuli_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

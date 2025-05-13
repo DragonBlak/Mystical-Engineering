@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:soularium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:soularium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

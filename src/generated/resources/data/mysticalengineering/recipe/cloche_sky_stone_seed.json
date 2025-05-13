@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:sky_stone_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:sky_stone_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

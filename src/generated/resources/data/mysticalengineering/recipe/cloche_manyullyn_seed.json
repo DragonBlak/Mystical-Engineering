@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:manyullyn_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:manyullyn_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

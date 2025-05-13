@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:menril_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:menril_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

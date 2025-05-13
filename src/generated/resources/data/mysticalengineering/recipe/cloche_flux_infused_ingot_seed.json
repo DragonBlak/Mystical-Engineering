@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:flux_infused_ingot_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:flux_infused_ingot_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

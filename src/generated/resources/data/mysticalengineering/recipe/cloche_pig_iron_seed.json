@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:pig_iron_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:pig_iron_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

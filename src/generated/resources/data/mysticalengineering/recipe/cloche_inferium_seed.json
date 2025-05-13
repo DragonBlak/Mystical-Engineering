@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:inferium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:inferium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

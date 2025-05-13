@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:wither_skeleton_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:wither_skeleton_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

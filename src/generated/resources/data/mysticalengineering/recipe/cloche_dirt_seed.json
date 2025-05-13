@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:dirt_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:dirt_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

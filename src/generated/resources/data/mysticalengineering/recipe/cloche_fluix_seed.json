@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:fluix_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:fluix_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

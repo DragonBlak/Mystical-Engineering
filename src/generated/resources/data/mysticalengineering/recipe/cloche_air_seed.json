@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:air_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:air_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

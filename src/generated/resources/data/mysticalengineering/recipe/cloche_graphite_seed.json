@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:graphite_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:graphite_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

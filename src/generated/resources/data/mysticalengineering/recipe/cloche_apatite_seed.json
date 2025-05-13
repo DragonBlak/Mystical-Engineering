@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:apatite_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:apatite_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

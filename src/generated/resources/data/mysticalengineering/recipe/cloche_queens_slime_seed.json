@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:queens_slime_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:queens_slime_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

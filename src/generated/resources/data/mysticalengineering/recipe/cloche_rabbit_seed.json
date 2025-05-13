@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:rabbit_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:rabbit_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

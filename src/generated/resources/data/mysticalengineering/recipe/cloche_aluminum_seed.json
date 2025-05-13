@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:aluminum_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:aluminum_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

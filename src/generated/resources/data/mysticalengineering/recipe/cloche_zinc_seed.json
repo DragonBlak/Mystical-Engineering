@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:zinc_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:zinc_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

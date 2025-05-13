@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:cobalt_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:cobalt_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

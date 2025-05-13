@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:grains_of_infinity_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:grains_of_infinity_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

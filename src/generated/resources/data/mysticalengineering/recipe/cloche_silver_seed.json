@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:silver_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:silver_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

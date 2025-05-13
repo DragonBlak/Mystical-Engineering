@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:peridot_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:peridot_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

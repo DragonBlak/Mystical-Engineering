@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:mystical_flower_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:mystical_flower_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

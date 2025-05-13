@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:limestone_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:limestone_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

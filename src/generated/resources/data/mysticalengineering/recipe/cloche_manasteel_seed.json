@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:manasteel_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:manasteel_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:redstone_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:redstone_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

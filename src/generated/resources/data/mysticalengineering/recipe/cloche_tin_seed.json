@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:tin_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:tin_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

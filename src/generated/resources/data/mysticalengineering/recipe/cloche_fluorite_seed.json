@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:fluorite_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:fluorite_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:knightmetal_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:knightmetal_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

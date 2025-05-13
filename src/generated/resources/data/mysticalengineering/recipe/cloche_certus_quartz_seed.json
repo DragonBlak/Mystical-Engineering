@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:certus_quartz_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:certus_quartz_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

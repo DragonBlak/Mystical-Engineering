@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:lead_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:lead_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

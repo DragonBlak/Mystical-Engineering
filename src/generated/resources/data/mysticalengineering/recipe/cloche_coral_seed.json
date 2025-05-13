@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:coral_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:coral_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

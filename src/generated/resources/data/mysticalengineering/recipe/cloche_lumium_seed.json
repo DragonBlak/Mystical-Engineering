@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:lumium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:lumium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

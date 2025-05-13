@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:creeper_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:creeper_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:draconium_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:draconium_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

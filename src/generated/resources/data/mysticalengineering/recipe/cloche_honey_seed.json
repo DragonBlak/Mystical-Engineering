@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:honey_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:honey_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

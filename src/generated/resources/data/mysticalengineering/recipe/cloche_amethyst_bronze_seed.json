@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:amethyst_bronze_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:amethyst_bronze_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

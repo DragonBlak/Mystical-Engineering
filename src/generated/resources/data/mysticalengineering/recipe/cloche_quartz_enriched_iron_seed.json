@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:quartz_enriched_iron_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:quartz_enriched_iron_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

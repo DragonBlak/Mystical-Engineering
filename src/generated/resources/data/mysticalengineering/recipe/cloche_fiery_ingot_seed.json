@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:fiery_ingot_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:fiery_ingot_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {

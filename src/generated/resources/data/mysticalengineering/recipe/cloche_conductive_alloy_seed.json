@@ -9,7 +9,10 @@
   },
   "results": [
     {
-      "item": "mysticalagriculture:conductive_alloy_seeds"
+      "basePredicate": {
+        "item": "mysticalagriculture:conductive_alloy_essence"
+      },
+      "count": 2
     }
   ],
   "soil": {
