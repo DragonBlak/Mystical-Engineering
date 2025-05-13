@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:armadillo_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:armadillo_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:armadillo_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:prudentium_farmland"
+  },
+  "time": 1200
+}

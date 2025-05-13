@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:skeleton_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "mysticalagriculture:skeleton_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:skeleton_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:tertium_farmland"
+  },
+  "time": 1200
+}
