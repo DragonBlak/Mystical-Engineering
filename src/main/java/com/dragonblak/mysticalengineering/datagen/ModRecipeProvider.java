@@ -40,7 +40,7 @@ public class ModRecipeProvider extends RecipeProvider {
 
         Ingredient soil = Ingredient.of(crop.getTier().getFarmland());
         Ingredient seed = Ingredient.of(crop.getSeedsItem());
-        TagOutput result = new TagOutput(crop.getSeedsItem());
+        TagOutput result = new TagOutput(crop.getEssenceItem(),2);
 
         ClocheRecipe recipe = new ClocheRecipe(result,seed,soil,1200, new ClocheRenderFunctions.RenderFunctionCrop(crop.getCropBlock()));
 

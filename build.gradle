@@ -23,7 +23,7 @@ repositories {
         url 'https://maven.blakesmods.com'
     }
     flatDir{
-        dirs 'build/libs'
+        dirs 'libs'
     }
 }
 
